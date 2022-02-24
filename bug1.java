@@ -1,2 +1,2 @@
-this is the sloution for bug1
+masterchange this is the sloution for bug1
 
